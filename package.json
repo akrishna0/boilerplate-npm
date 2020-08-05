@@ -7,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Akash Krishna",
 	"engines": {
 		"node": "8.11.2"
 	},
