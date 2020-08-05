@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Akash Krishna",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,7 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Akash Krishna",
+	
 	"engines": {
 		"node": "8.11.2"
 	},
